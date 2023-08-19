@@ -1,4 +1,7 @@
 # nur-para-firefox
+
+## ___https://github.com/nix-community/nur-combined/blob/master/repos/rycee/pkgs/firefox-addons/generated-firefox-addons.nix___
+
 ```nix
 "news-feed-eradicator" = buildFirefoxXpiAddon {
       pname = "news-feed-eradicator";
